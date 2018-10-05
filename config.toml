@@ -14,7 +14,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
   # Shown in the home page
-  subtitle = "A collection of problems and solutions"
+  subtitle = "A collection of sparks"
   brand = "WHub"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
@@ -57,4 +57,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   #instagram = "*"
   github = "mplusx"
   #stackoverflow = "*"
-  linkedin = "meng-xu-83046150"
+  #linkedin = "meng-xu-83046150"

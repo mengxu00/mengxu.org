@@ -1,5 +1,6 @@
 .header {
-  font-family: "Raleway", Helvetica, Arial, sans-serif
+  /*font-family: "Raleway", "Helvetica", "Arial", "sans-serif"*/
+  font-family: "Raleway", "Helvetica", "Arial", "sans-serif"
 }
 
 a {
@@ -57,10 +58,33 @@ article > footer {
   text-decoration: none;
   margin: 0.5em 0;
 }
-
+/*
 #menu .pure-menu {
   font-size: 0.9em;
 }
+*/
+#menu .pure-menu {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 0.9em;
+  letter-spacing: 0.1em;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
+  color: #265778;
+}
+
+#menu .small-print {
+  font-family: sans-serif;
+  font-weight: normal;
+  font-size: 0.8em;
+  text-transform: none;
+  background: transparent;
+  text-decoration: none;
+  color: #777777;
+  
+}
+
 
 i {
   display: inline-block;
