@@ -3,6 +3,10 @@
   font-family: "Raleway", "Helvetica", "Arial", "sans-serif"
 }
 
+body {
+    background-color: #F1F1F1;
+}
+
 a {
   /*color: #3b8bba;*/
   color: #191919;
