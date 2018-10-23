@@ -1,25 +1,26 @@
-baseurl = "https://www.example.com/"
+baseurl = "/"
 languageCode = "en-us"
-title = ""
+title = "Wrinkle Hub"
 theme = "blackburn"
 author = "Meng Xu"
 copyright = "&copy; 2018. All rights reserved."
 canonifyurls = true
 paginate = 10
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ 
 [indexes]
   tag = "tags"
   topic = "topics"
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
-  brand = "Blackburn"
+  subtitle = "A collection of sparks"
+  brand = "WHub"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
   highlightjs = "androidstudio"
-  dateFormat = "02 Jan 2006, 15:04"
+  dateFormat = "2006 Jan 02, 15:04"
 
 [menu]
   # Shown in the side menu.
@@ -41,11 +42,11 @@ paginate = 10
     weight = 3
     identifier = "about"
     url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 4
-    url = "/contact/"
+#  [[menu.main]]
+#    name = "Contact"
+#    pre = "<i class='fa fa-phone fa-fw'></i>"
+#    weight = 4
+#    url = "/contact/"
 
 [social]
   # Link your social networking accouns to the side menu
@@ -54,6 +55,6 @@ paginate = 10
   # twitter = "*"
   #facebook = "*"
   #instagram = "*"
-  github = "mplusx"
+  github = "mplusx/mengxu.org"
   #stackoverflow = "*"
-  linkedin = "meng-xu-83046150"
+  #linkedin = "meng-xu-83046150"
