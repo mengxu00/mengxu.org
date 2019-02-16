@@ -1,6 +1,6 @@
 ---
 author: "Meng Xu"
-date: 2018-10-22
+date: 2019-02-15
 linktitle: Copy and paste with convolution
 title: Copy and paste with convolution
 weight: 11
