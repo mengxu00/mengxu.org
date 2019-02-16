@@ -1,15 +1,15 @@
 .header {
-  /*font-family: "Raleway", "Helvetica", "Arial", "sans-serif"*/
   font-family: "Raleway", "Helvetica", "Arial", "sans-serif"
 }
 
+/* Main page backgroud color - light gray*/
 body {
     background-color: #F1F1F1;
 }
 
+/* Title font color - dark gray*/
 a {
-  /*color: #3b8bba;*/
-  color: #191919;
+  color: #23292D;
   text-decoration: none;
 }
 a:hover,

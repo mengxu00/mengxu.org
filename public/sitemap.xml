@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/copy-and-paste-with-convolution/</loc>
+    <loc>/post/group2/copy-and-paste-with-convolution_2/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/post_group_1/copy-and-paste-with-convolution-1/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/assay/example-assay/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/news/news-1/</loc>
     <lastmod>2018-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -15,6 +30,18 @@
   <url>
     <loc>/contact/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/assay/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/news/</loc>
+    <lastmod>2018-10-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
