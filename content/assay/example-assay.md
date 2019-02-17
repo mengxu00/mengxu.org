@@ -15,13 +15,13 @@ We'll start with creating a new site with a very basic template. Then we'll add 
 
 In this tutorial, commands that you enter will start with the "$" prompt. The output will follow. Lines that start with "#" are comments that I've added to explain a point. When I show updates to a file, the ":wq" on the last line means to save the file.
 
-Here is a quote
-```
-In this tutorial, commands that you enter will start with the "$" prompt.
+Here is a block quote
+
+>In this tutorial, commands that you enter will start with the "$" prompt.
 In this tutorial, commands that you enter will start with the "$" prompt.
 In this tutorial, commands that you enter will start with the "$" prompt.
 
-```
+
 
 Here's an example:
 
