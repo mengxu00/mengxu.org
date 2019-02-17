@@ -4,12 +4,14 @@
 
 /* Main page backgroud color - light gray*/
 body {
-    background-color: #F1F1F1;
+    /* background-color: #F1F1F1;*/
+    background-color: #FEFEFE;
 }
 
 /* Title font color - dark gray*/
 a {
   color: #23292D;
+  font-weight: normal;
   text-decoration: none;
 }
 a:hover,
@@ -53,6 +55,19 @@ article > footer {
   overflow: hidden;
 }
 
+
+
+/* block quote */
+blockquote{
+  font-style: normal;
+  font-size: 16px;
+  margin-left: 32px;
+  font-family: Consolas, "Times New Roman", Verdana;
+  border-left: 4px solid #CCC;
+  padding-left: 8px;
+}
+
+/* Logo on the top of sidebar */
 #menu .brand {
   font-family: Raleway;
   font-weight: bold;
@@ -63,11 +78,7 @@ article > footer {
   text-decoration: none;
   margin: 0.5em 0;
 }
-/*
-#menu .pure-menu {
-  font-size: 0.9em;
-}
-*/
+
 #menu .pure-menu {
   font-family: sans-serif;
   font-weight: normal;
