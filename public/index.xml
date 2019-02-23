@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why bother writing</title>
+      <link>/assay/example-assay/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/assay/example-assay/</guid>
+      <description> Balance meaning and pleasure </description>
+    </item>
     
     <item>
       <title>Copy and paste with convolution</title>
@@ -29,23 +38,13 @@ Quote with author and link  This is a quote from Author4 and links to https://ww
     </item>
     
     <item>
-      <title>example assay</title>
-      <link>/assay/example-assay/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/assay/example-assay/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>/about/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>  He who has a why to live for can bear almost any how.
- Friedrich Nietzsche  twitter.com/allanbranch/status/...    </description>
+      <description>He who has a why to live for can bear almost any how.
+ Friedrich Nietzsche  en.wikipedia.org/wiki/...    The world has almost infinite information. We can only percieve</description>
     </item>
     
     <item>

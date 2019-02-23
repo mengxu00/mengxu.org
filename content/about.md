@@ -1,11 +1,12 @@
 +++
 title = "About"
-date = "2018-09-16"
+date = "2019-02-23"
 sidemenu = "true"
-description = "About me and this site"
+description = "Why this exists"
 +++
 
-{{< blockquote author="Friedrich Nietzsche" link="https://twitter.com/allanbranch/status/90766146063712256" >}}
+{{< blockquote author="Friedrich Nietzsche" link="https://en.wikipedia.org/wiki/Twilight_of_the_Idols" >}}
   He who has a why to live for can bear almost any how.
 {{< /blockquote >}}
 
+The world has almost infinite information. We can only percieve 
