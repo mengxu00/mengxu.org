@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Assays on Wrinkle Hub</title>
-    <link>/assay/</link>
-    <description>Recent content in Assays on Wrinkle Hub</description>
+    <title>Reading on Wrinkle Hub</title>
+    <link>/topics/reading/</link>
+    <description>Recent content in Reading on Wrinkle Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019. All rights reserved.</copyright>
     <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/assay/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/topics/reading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

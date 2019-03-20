@@ -24,6 +24,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   highlightjs = "mono-blue"
   #highlightjs = "school-book"
   dateFormat = "2006 Jan 02"
+  custom_css = ["css/my.css"]
+  custom_js = ["js/my.js"]
 
 #[menu]
 #  # Shown in the side menu.
@@ -47,6 +49,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 3
     identifier = "assay" 
     url = "/assay/"
+    
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"

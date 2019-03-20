@@ -9,4 +9,3 @@ description = "Why this exists"
   He who has a why to live for can bear almost any how.
 {{< /blockquote >}}
 
-The world has almost infinite information. We can only percieve 
