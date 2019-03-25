@@ -35,19 +35,19 @@
   </url>
   
   <url>
-    <loc>/topics/reading/</loc>
+    <loc>/tags/reading/</loc>
     <lastmod>2019-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/topics/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -58,7 +58,7 @@
   </url>
   
   <url>
-    <loc>/topics/writing/</loc>
+    <loc>/tags/writing/</loc>
     <lastmod>2019-02-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
