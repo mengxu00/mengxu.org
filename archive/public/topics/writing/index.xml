@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Writing on Wrinkle Hub</title>
+    <link>/topics/writing/</link>
+    <description>Recent content in Writing on Wrinkle Hub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/topics/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why bother writing</title>
+      <link>/assay/why-bother-writing/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/assay/why-bother-writing/</guid>
+      <description>Writing formulates coherent ideas Ideas change your world. Because ideas are useful and transferable crystalized intellegence. Ideas are more than collection of facts. Ideas are abstract knowledge summarized from one place and generalizable to other places.
+Balance meaning and pleasure Ideas are more than a collection of facts. They are value structures. Sacrifice parts to preserve the whole
+When writing is boring It is important, and practical to only write topics truly important to you.</description>
+    </item>
+    
+  </channel>
+</rss>
