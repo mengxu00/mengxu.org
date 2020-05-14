@@ -1,0 +1,4 @@
+theme = "tuflov"
+baseURL = ""
+languageCode = "en-us"
+title = "tuflov - Tufte for Hugo lovers"

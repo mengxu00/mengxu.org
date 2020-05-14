@@ -1,0 +1,24 @@
+
+{{ define "main" }}
+<main>
+<article class="post">
+    <h1 style="color:lightgray;">{{.Title}}</h1>
+    <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+    {{.Content}}
+
+    <ul>
+    <!-- Ranges through content/posts/*.md -->
+    {{ range .Pages }}
+        <li>
+            <!-- the version with date
+            <a href="{{.Permalink}}"> {{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+            -->
+
+            <!-- No date -->
+            <a href="{{.Permalink}}"> {{.Title}}</a>
+        </li>
+    {{ end }}
+    </ul>
+</article>
+</main>
+{{ end }}
