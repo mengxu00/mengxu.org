@@ -60,6 +60,21 @@
 </div>
 
 
+<button class="w3-button w3-hover-sand w3-large" onclick="sideBarOpen()">☰</button>
+
+<script>
+function sideBarOpen() {
+  var x = document.getElementById("mySidebar");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
+
+
 <div class="w3-main" style="margin-left:250px">
 <div id="content">
     <main id="main">
