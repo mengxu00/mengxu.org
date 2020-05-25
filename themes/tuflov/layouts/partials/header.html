@@ -16,27 +16,28 @@
       href="/ico/ico1.png">
 
     <title>{{ .Title }}</title>
-  </head>
 
-<style>
-  body{
-    background-color: #fffff8;
-  }
-  .w3-bar {
-    background-color: #fffff8;
-  }
-  <!-- Sidebar css-->
-  .w3-sidebar {
-    z-index: 3;
-    width: 150px;
-    top: 43px;
-    left: 0;
-    bottom: 0;
-    height: inherit;
-    background-color: #fffff8;
-  }
-  .w3-theme-paper {color:#000 !important; background-color:#fffff8 !important}
-</style>
+    <style>
+      body{
+        background-color: #fffff8;
+      }
+      .w3-bar {
+        background-color: #fffff8;
+      }
+      <!-- Sidebar css-->
+      .w3-sidebar {
+        z-index: 3;
+        width: 150px;
+        top: 43px;
+        left: 0;
+        bottom: 0;
+        height: inherit;
+        background-color: #fffff8;
+      }
+      .w3-theme-paper {color:#000 !important; background-color:#fffff8 !important}
+    </style>
+
+  </head>
 
 
 <body>
@@ -69,7 +70,7 @@
 </div>
 
 <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
-<button class="w3-button w3-hover-sand w3-large" onclick="sideBarOpen()">☰</button>
+<button class="w3-button w3-mobile w3-left-align w3-hover-sand w3-large" onclick="sideBarOpen()">☰</button>
 <!--
 <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
@@ -89,3 +90,6 @@ function sideBarOpen() {
 
 <!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
 <div class="w3-main" style="margin-left:250px">
+
+
+
