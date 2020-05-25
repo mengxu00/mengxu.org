@@ -197,7 +197,7 @@ function lengthConverter(source,valNum) {
     <div class="w3-card w3-center w3-lightgray">
       <h5 style="color:gray;">Temperature </h5>
     </div>
-    <div class="w3-row-padding"; style="margin:0 -16px">
+    <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half w3-left w3-margin-top">
         <label class="w3-left">Fahrenheit</label>
         <input id="inputFahrenheit" class="w3-input w3-border" type="number" min="-459.66999999999996" placeholder="Fahrenheit" oninput="temperatureConverter(this.id,this.value)" onchange="temperatureConverter(this.id,this.value)">
@@ -255,20 +255,6 @@ function lengthConverter(source,valNum) {
 
 
 <hr>
-  <!--
-  <h1>posts</h1>
-  {{ range first 10 .Data.Pages }}
-    {{ if eq .Type "posts"}}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-  {{ end }}
 
-  <h1>pages</h1>
-  {{ range .Data.Pages }}
-    {{ if eq .Type "page" }}
-      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-    {{ end }}
-  {{ end }}
--->
-
+</div>
 {{ partial "footer.html" . }}
