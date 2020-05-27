@@ -45,3 +45,9 @@ Only a little part of the world is relevant to our life.
 ## Starting points
 * We are very blind to the information around us
 * The tiny portion of things we pay attention to is what relevant to us. This is proved in action.
+* 
+
+## Questions to address
+* What is the new insight here
+* How knowing this could help with everyday life
+* 
