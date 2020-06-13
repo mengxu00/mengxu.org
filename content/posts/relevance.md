@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 
 date: 2020-04-08
-draft: true
+draft: false
 
 
 
@@ -19,7 +19,7 @@ tags: []
 categories: []
 ---
 
-Relavance determines productivity. Not time or time management. You are most productive in activities that naturally engages you. Many people can focus on video games, wood work, etc. for hours. They call this type of situation a "flow" state. These activities are often by no means easy. There's little to no correlation between 
+Relavance determines productivity. Not time or time management. You are most productive in activities that naturally engages you. Many people can focus on video games, wood work, etc. for hours. They call this type of situation a "flow" state. These activities are often by no means easy. There's little to no correlation between the leve lof difficulty and 
 
 The best way to update existing theory is, in my estimation, to learn from exceptions. To note your error, articulate them, and strive to fix.
 
@@ -40,14 +40,21 @@ Only a little part of the world is relevant to our life.
 
 
 
+----
+### Appendix
+### Why
+* I had strong wishes that I have good plans for life. Becasue in this way I can rule out obviously non-practical opportunities. A sounds plan also provides expectatins of the future. This really helps with anxiety management.
+However I also knew that future is rather unpredictable because we have very limitead knowledge of the current state - where we are right now. I want to explore how to plan and act in a rather non-predictable world by writing down pieces of thought and examine overtime.
+I also feel that my ideas are quite fragmented. And it would be interesting to lay them out at the same place and to put pieces together into a coherent 
 
-# Appendix
-## Starting points
+* 
+
+### Starting points
 * We are very blind to the information around us
 * The tiny portion of things we pay attention to is what relevant to us. This is proved in action.
 * 
 
-## Questions to address
+### Questions to address
 * What is the new insight here
 * How knowing this could help with everyday life
-* 
+* Is there an internal light 
