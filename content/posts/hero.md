@@ -18,6 +18,9 @@ authors : [Meng Xu]
 tags: []
 categories: []
 ---
+
+A hero is born in the darkest point of the night.
+
 Choose your opponent carefully. 
 
 You want to be a hero in your own life. Heros fight. And they fight with strong opponents.
