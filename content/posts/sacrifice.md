@@ -26,3 +26,19 @@ I took back home $3,300 each month when I was a postdoc researcher. After paying
 Ocassionally we took vacations to parks or beaches, I spent.
 
 Any achievement is also an obstacle, at the same time. You have to let what you value go, as soon as you get it.
+
+
+----
+### Appendix
+### Why
+
+
+* 
+
+### Starting points
+* 
+
+### Questions to address
+* What is the new insight here
+* How knowing this could help with everyday life
+* Is there an internal light 
