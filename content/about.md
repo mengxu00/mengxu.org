@@ -18,4 +18,4 @@ I have complex and contradictory feelings toward freedom and independence: I des
 
 I value and respect the dignity and worth of each individual. I deeply enjoy and cherish meaningful relationships with many.
 
-I pursued intelligence as if it is the most valuable thing in the universe, yet as I grow, I more and more appreciate wisdom.
+I pursued intelligence as if it is the most valuable thing in the universe, yet as I grow, I become more and more able to appreciate wisdom.
