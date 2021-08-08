@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Say what you mean</title>
+    <title>Ask | Seek | Knock</title>
     <link>/</link>
-    <description>Recent content on Say what you mean</description>
+    <description>Recent content on Ask | Seek | Knock</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2020 16:00:33 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 07 Aug 2021 16:00:33 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>First</title>
-      <link>/posts/first/</link>
-      <pubDate>Tue, 18 Feb 2020 16:00:33 -0700</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sat, 07 Aug 2021 16:00:33 -0700</pubDate>
       
-      <guid>/posts/first/</guid>
-      <description>This is the first paragraph
-Writing is a medium of human communication that represents language with signs and symbols. For languages that utilize a writing system, inscriptions can complement spoken language by creating a durable version of speech that can be stored for future reference or transmitted across distance. Writing, in other words, is not a language, but a tool used to make languages readable.[1] Within a language system, writing relies on many of the same structures as speech, such as vocabulary, grammar, and semantics, with the added dependency of a system of signs or symbols.</description>
+      <guid>/about/</guid>
+      <description>A little goes a long way.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sat, 15 Jun 2019 16:00:33 -0700</pubDate>
+      <title>Relevance</title>
+      <link>/posts/relevance/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>A little goes a long way</description>
+      <guid>/posts/relevance/</guid>
+      <description>If only a catapilla could tell its stories.</description>
     </item>
     
   </channel>

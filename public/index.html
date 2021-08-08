@@ -16,7 +16,7 @@
       type="image/png" 
       href="/ico/ico1.png">
 
-    <title>Say what you mean</title>
+    <title>Ask | Seek | Knock</title>
 
     <style>
       body{
@@ -82,14 +82,82 @@ function sideBarOpen() {
 
 
 <div class="w3-container">
+  
+  
+  
   <h1  style="color:lightgray;">Tools</h1>
   <p> </p>
 
   <hr class="w3-threequarter w3-center;">
+
+  
+  
+  
+  <div class="w3-row-padding">
+    <h3  style="color:gray;">Books</h3>
+
+    
+    <div class="w3-col w3-quarter w3-center;">
+      <div class="w3-card w3-center w3-lightgray">
+        <div class="w3-container">
+          <a href="https://www.google.com/search?q=the+red+book">
+            <p>The Red Book (Carl Jung)</p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="w3-col w3-quarter w3-center;">
+      <div class="w3-card w3-center w3-lightgray">
+        <div class="w3-container">
+          <a href="https://www.google.com/search?q=on+becoming+a+person">
+            <p>On Becoming A Person (Carl Rogers)</p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <div class="w3-col w3-quarter w3-center;">
+          <div class="w3-card w3-center w3-lightgray">
+            <div class="w3-container">
+              <a href="https://www.google.com/search?q=12+rules+for+life">
+            <p>12 Rules for Life: An Antidote to Chaos (Jordan Peterson) </p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+<hr class="w3-threequarter">
+
+  
+  
+  
+  <div class="w3-row-padding">
+    <h3  style="color:gray;"> Music </h3>
+
+    <div class="w3-col w3-quarter w3-center;">
+          <div class="w3-card w3-center w3-lightgray">
+            <div class="w3-container">
+              <a href="https://www.youtube.com/watch?v=mIYzp5rcTvU">
+            <p> Classical Music for Reading </p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+<hr class="w3-threequarter">
+
+  
+  
+  
   <div class="w3-row-padding">
     <h3  style="color:gray;">Courses</h3>
 
-  
+    
     <div class="w3-col w3-quarter w3-center;">
       <div class="w3-card w3-center w3-lightgray">
         <div class="w3-container">
@@ -109,8 +177,18 @@ function sideBarOpen() {
         </div>
       </div>
     </div>
-  </div>
 
+    <div class="w3-col w3-quarter w3-center;">
+          <div class="w3-card w3-center w3-lightgray">
+            <div class="w3-container">
+              <a href="https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC">
+            <p>CS231n Winter 2016 </p>
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
 
 
 <script>
@@ -241,102 +319,13 @@ function lengthConverter(source,valNum) {
 }
 </script>
 
-<hr class="w3-threequarter">
 
-<div class="w3-row-padding">
-  <h3  style="color:gray;">Unit converters</h3>
   
-  <div class="w3-col w3-quarter w3-center;">
-    <div class="w3-card w3-center w3-lightgray">
-      <h5 style="color:gray;">Weight</h5>
-    </div>
-    <div class="w3-row-padding" style="margin:0 -16px">
-      <div class="w3-half w3-margin-top">
-        <label>Pounds</label>
-        <input id="inputPounds" class="w3-input w3-border" type="number" placeholder="Pounds" oninput="weightConverter(this.id,this.value)" onchange="weightConverter(this.id,this.value)">
-      </div>
-      <div class="w3-half w3-margin-top">
-        <label>Kilograms</label>
-        <input id="inputKilograms" class="w3-input w3-border" type="number" placeholder="Kilograms" oninput="weightConverter(this.id,this.value)" onchange="weightConverter(this.id,this.value)">
-      </div>
-      <div class="w3-half w3-margin-top">
-        <label>Ounces</label>
-        <input id="inputOunces" class="w3-input w3-border" type="number" placeholder="Ounces" oninput="weightConverter(this.id,this.value)" onchange="weightConverter(this.id,this.value)">
-      </div>
-      <div class="w3-half w3-margin-top">
-        <label>Grams</label>
-        <input id="inputGrams" class="w3-input w3-border" type="number" placeholder="Grams" oninput="weightConverter(this.id,this.value)" onchange="weightConverter(this.id,this.value)">
-      </div>
-      <div class="w3-half w3-margin-top">
-        <label>Stones</label>
-        <input id="inputStones" class="w3-input w3-border" type="number" placeholder="Stones" oninput="weightConverter(this.id,this.value)" onchange="weightConverter(this.id,this.value)">
-      </div>
-    </div>
-  </div>
+  
+  
 
 
-  <div class="w3-col w3-quarter w3-center">
-    <div class="w3-card w3-center w3-lightgray">
-      <h5 style="color:gray;">Temperature </h5>
-    </div>
-    <div class="w3-row-padding" style="margin:0 -16px">
-      <div class="w3-half w3-left w3-margin-top">
-        <label class="w3-left">Fahrenheit</label>
-        <input id="inputFahrenheit" class="w3-input w3-border" type="number" min="-459.66999999999996" placeholder="Fahrenheit" oninput="temperatureConverter(this.id,this.value)" onchange="temperatureConverter(this.id,this.value)">
-      </div>
-      <div class="w3-half w3-left w3-margin-top">
-        <label class="w3-left">Celsius</label>
-        <input id="inputCelsius" class="w3-input w3-border" type="number" min="-273.15" placeholder="Celsius" oninput="temperatureConverter(this.id,this.value)" onchange="temperatureConverter(this.id,this.value)">
-      </div>
-      <div class="w3-half w3-margin-top">
-        <label class="w3-left">Kelvin</label>
-        <input id="inputKelvin" class="w3-input w3-border" type="number" min="0" placeholder="Kelvin" oninput="temperatureConverter(this.id,this.value)" onchange="temperatureConverter(this.id,this.value)">
-      </div>
-    </div>
-  </div>
 
-
-<div class="w3-col w3-quarter w3-center">
-<div class="w3-card w3-center w3-lightgray">
-  <h5 style="color:gray;">Length</h5>
-</div>
-<div class="w3-row-padding" style="margin:0 -16px">
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">Feet</label>
-    <input id="inputFeet" class="w3-input w3-border" type="number" placeholder="Feet" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">Meters</label>
-    <input id="inputMeters" class="w3-input w3-border" type="number" placeholder="Meters" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">Inches</label>
-    <input id="inputInches" class="w3-input w3-border" type="number" placeholder="Inches" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">cm</label>
-    <input id="inputcm" class="w3-input w3-border" type="number" placeholder="cm" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">Yards</label>
-    <input id="inputYards" class="w3-input w3-border" type="number" placeholder="Yards" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">Kilometers</label>
-    <input id="inputKilometers" class="w3-input w3-border" type="number" placeholder="Kilometers" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-  <div class="w3-half w3-margin-top">
-    <label class="w3-left">Miles</label>
-    <input id="inputMiles" class="w3-input w3-border" type="number" placeholder="Miles" oninput="lengthConverter(this.id,this.value)" onchange="lengthConverter(this.id,this.value)">
-  </div>
-</div>
-</div>
-
-
-</div>
-
-
-<hr>
 
 </div>
 
